@@ -1,0 +1,6 @@
+  ...
+  for(int ever; ever<ganasdeaprender; ever++){
+  cout << Esta parte de mi vida la llamo: programar sin parar. <<endl;
+  }
+  return 0;
+}
